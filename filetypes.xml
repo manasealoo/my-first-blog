@@ -6,6 +6,7 @@
       <mapping pattern="admin" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="Python" />
     </extensionMap>
   </component>
 </application>
