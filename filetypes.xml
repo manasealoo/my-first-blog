@@ -8,6 +8,7 @@
       <mapping pattern="username" type="PLAIN_TEXT" />
       <mapping pattern="trial" type="PLAIN_TEXT" />
       <mapping pattern="users" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="exe" type="Python" />
     </extensionMap>
