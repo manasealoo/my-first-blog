@@ -11,6 +11,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="exe" type="Python" />
+      <mapping pattern="105" type="XML" />
     </extensionMap>
   </component>
 </application>
